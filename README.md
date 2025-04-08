@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist** with a strong academic fo
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 With a deep-rooted curiosity and analytical mindset, I transitioned from theoretical physics into the world of data science. My work focuses on:
 
