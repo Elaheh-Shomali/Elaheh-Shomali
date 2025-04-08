@@ -31,7 +31,7 @@ Here are some of the tools and technologies I regularly work with:
 
 Let’s connect and collaborate! Feel free to reach out for project ideas or discussions.
 
-🔗 LinkedIn[www.linkedin.com/in/dr-elaheh-shomali]
+🔗 **[LinkedIn](www.linkedin.com/in/dr-elaheh-shomali)**
 
 Let’s build something impactful together! 🚀
 
